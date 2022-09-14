@@ -1,0 +1,208 @@
+{
+    "board": [
+        {
+            "name": "Sona Philip",
+            "img": "./images/board19/sona.jpg",
+            "role": "Community Lead",
+            "in": true
+        },
+        {
+            "name": "Muskan Rastogi",
+            "img": "./images/managers/muskan.jpg",
+            "role": "Faculty Incharge",
+            "in": true
+        }
+
+    ],
+    "technical": [
+        {
+            "name": "Nithi Santhosh",
+            "img": "./images/techteam/Nithi Santhosh.jpg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Sreni Saji",
+            "img": "./images/techteam/sr.jpeg",
+            "role": "Co-Lead",
+            "in": true
+        },
+        {
+            "name": "Aron Simon",
+            "img": "./images/techteam/aron.jpeg",
+            "role": "Co-Lead",
+            "in": true
+        }
+    ],
+    "management": [
+        {
+            "name": "Aayisha Rafeek",
+            "img": "./images/managers/Aayisha Rafeek.jpg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Sinana K",
+            "img": "./images/managers/SINANA.jpg",
+            "role": "Co-Lead",
+            "in": true
+        },
+        {
+            "name": "Angel Rose Shajan",
+            "img": "./images/managers/Angel Rose Shajan.jpg",
+            "role": "Co-Lead",
+            "in": true
+        }
+    ],
+    "design": [
+        {
+            "name": "Jadheer Sha Ahamed VT",
+            "img": "./images/designers/Jadheer sha ahamed VT.jpg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Don Shaji",
+            "img": "./images/designers/don.jpeg",
+            "role": "Co-Lead",
+            "in": true
+        },
+        {
+            "name": "Muhammed Niyas",
+            "img": "./images/designers/niyas.jpg",
+            "role": "Co-Lead",
+            "in": true
+        }
+    ],
+
+    "innovation": [
+        {
+            "name": "Gayathri Vinayan",
+            "img": "./images/innovation/Gayathri Vinayan.jpg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Ashitha P R",
+            "img": "./images/innovation/ashitha.jpeg",
+            "role": "Co-Lead",
+            "in": true
+        },
+        {
+            "name": "Ashwin P Joby",
+            "img": "./images/innovation/Ashwin P Joby.jpg",
+            "role": "Co-Lead",
+            "in": true
+        }
+    ],
+    "content": [
+        {
+            "name": "Lakshmi N",
+            "img": "./images/content/lak.jpeg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Anena Samrin",
+            "img": "./images/content/Anena Samrin.jpeg",
+            "role": "Co-Lead",
+            "in": true
+        },
+        {
+            "name": "Rachel Babu Thachil",
+            "img": "./images/content/rac.jpeg",
+            "role": "Co-Lead",
+            "in": true
+        }
+    ],
+    "media": [
+        {
+            "name": "Alan Shaju",
+            "img": "./images/media/Alan Shaju.jpg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Mariya Biju",
+            "img": "./images/media/Mariya Biju.jpg",
+            "role": "Lead",
+            "in": true
+        }
+    ],
+    "research": [
+        {
+            "name": "Mubeena K P",
+            "img": "./images/research/MUBEENA K P.jpg",
+            "role": "Lead",
+            "in": true
+        }
+    ],
+    "wit": [
+        {
+            "name": "Anupriya Krishnakumar",
+            "img": "./images/wit/anu.jpeg",
+            "role": "Lead",
+            "in": true
+        },
+        {
+            "name": "Anjana J Nair",
+            "img": "./images/wit/Anjana.jpg",
+            "role": "Co-Lead",
+            "in": true
+        },
+        {
+            "name": "Ranjana Joseph",
+            "img": "./images/wit/Ranjana Joseph.jpg",
+            "role": "Co-Lead",
+            "in": true
+        }
+    ],
+
+    "department": [
+        {
+            "name": "Anamya B",
+            "img": "./images/department/Anamya B.jpg",
+            "role": "Computer Science",
+            "in": true
+        },
+        {
+            "name": "Adithya Anil",
+            "img": "./images/department/Adithya Anil.jpg",
+            "role": "Electronics and Communication",
+            "in": true
+        },
+        {
+            "name": "Collin Faber Stanley",
+            "img": "./images/department/Collin Faber.jpg",
+            "role": "Electrical",
+            "in": true
+        },
+        {
+            "name": "Sreerag C S",
+            "img": "./images/department/SREERAG C S.jpg",
+            "role": "Civil",
+            "in": true
+        },
+        {
+            "name": "Thabsheer A",
+            "img": "./images/department/Thab Sheer.jpg",
+            "role": "Mechanical",
+            "in": true
+        },
+        {
+            "name": "C S Amarnath",
+            "img": "./images/department/Cs Amarnath.jpg",
+            "role": "Chemical",
+            "in": false
+        },
+        {
+            "name": "Sreerag Rayirath",
+            "img": "./images/department/SREERAG RAYIRATH.JPG",
+            "role": "Prduction",
+            "in": false
+        }
+    ]
+
+
+    
+}
